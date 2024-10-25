@@ -7,7 +7,7 @@ import OnGoingSec from './components/OnGoing.jsx';
 import { LeetCodeIcon } from './components/LeetcodeIcon.jsx';
 
 const App = () => {
-  const [isDark, setIsDark] = useState(true);
+  const [isDark, setIsDark] = useState(false);
   const [email, setEmail] = useState('');
 
   const handleSubmit = (e) => {
