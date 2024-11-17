@@ -5,6 +5,9 @@ const changes = [
       year: "Jan,2024 - Present",
       items: [
         {
+          title: "Full time(Ericsson) - Graduate Engineer Trainee 🥳",
+          description: "Developing and optimizing cloud-based solutions using Google Cloud, APIs, web services and Gaining hands-on experience in API integration and deployment for scalable system performance."
+        },{
           title: "Ericsson - Data Engineer Intern 🎉",
           description: "Managed a data lake and deployed SQL queries in GCP BigQuery, upgraded cloud functions for improved performance, automated Pub/Sub services using Python"
         },
