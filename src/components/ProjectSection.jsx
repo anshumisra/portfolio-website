@@ -9,11 +9,22 @@ const projects = [
     live: "https://vercel.com/api/toolbar/link/think-ai-sigma.vercel.app?via=team-dashboard-project-entity&p=1&page=/"
   },
   {
+  "title": "AI Agent - Todo Backend",
+  "description": "A smart AI todo agent list manager that helps users organize tasks efficiently. The backend supports task creation, updates, deletion, and intelligent task suggestions using LLM.",
+  "tags": ["Node.js", "Typescript", "Postgres", "Drizzle ORM", "Gemini AI", "REST API"],
+  "github": "https://github.com/anshumisra/todo-agent"
+  },
+  {
+  "title": "Chess Backend",
+  "description": "Backend for a multiplayer chess game, enabling real-time gameplay, move validation, and game state management. Built to support seamless interactions between players and ensure a smooth gaming experience.",
+  "tags": ["Node.js", "Typescript", "WebSocket", "Postgres", "Prisma", "REST API"],
+  "github": "https://github.com/anshumisra/Chess-backend"
+  },
+  {
     title: "Medium - Blogging Website",
     description: "Social publishing platform that is open to all and home for a diverse array of stories, blogs and perspectives",
     tags: ["React", "Typescript","Postgres", "Prisma" ,"AWS"],
     github: "https://github.com/anshumisra/medium-fullstack",
-    
   },
   {
     title: "Automated road safety audit",
